@@ -6,6 +6,7 @@ public class HelloWolrd {
 		// TODO Auto-generated method stub
 		System.out.println("dfwecvxccvcsdfsffdsfvxcvxvxcvxcvvcx");
 		System.out.println("dfwecvxccvcsdfsffdsfvxcvxvxcvxcvvcx");
+		System.out.println("只有这样了嘛");
 	}
 
 }
